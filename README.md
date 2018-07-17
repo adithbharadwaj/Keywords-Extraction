@@ -1,11 +1,12 @@
 # Keywords-Extraction
 extracting keywords from a document using TF-IDF (term frequency-inverse Document Frequency) 
 
+<h3> The list of keywords is avaliable in the keywords.csv file </h3>
+
 # Term Frequency (TF)
 
 <p> 
-The tf part
-The tf-formula is a ratio of a term’s occurences in a document and the number of occurences of the most frequent word within 
+The tf-formula is the ratio of a term’s occurences in a document and the number of occurences of the most frequent word within 
 the same document.
 </p>
 
@@ -25,7 +26,7 @@ The TF-IDF score of a word is the product of the TF(term frequency) and the IDF(
 
 <p>
 The most important words (keywords) from a document can be extracted by the tf-idf scores of the words.
-the words with high tf-idf scores are more important than the words wit lower tf-idf scores.
+the words with high tf-idf scores are more important than the words with lower tf-idf scores.
 </p>
 
-<h3> The list of keywords is avaliable in the keywords.csv file </h3>
+
