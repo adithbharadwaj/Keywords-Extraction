@@ -27,3 +27,5 @@ The TF-IDF score of a word is the product of the TF(term frequency) and the IDF(
 The most important words (keywords) from a document can be extracted by the tf-idf scores of the words.
 the words with high tf-idf scores are more important than the words wit lower tf-idf scores.
 </p>
+
+<h3> The list of keywords is avaliable in the keywords.csv file </h3>
